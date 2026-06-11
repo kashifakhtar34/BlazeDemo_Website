@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-08T13:48:51 IST" name="Default suite" finished-at="2026-06-08T13:49:26 IST" duration-ms="34891">
+  <suite started-at="2026-06-11T11:56:13 IST" name="Default suite" finished-at="2026-06-11T11:56:25 IST" duration-ms="11250">
     <groups>
     </groups>
-    <test started-at="2026-06-08T13:48:51 IST" name="Default test" finished-at="2026-06-08T13:49:26 IST" duration-ms="34891">
+    <test started-at="2026-06-11T11:56:13 IST" name="Default test" finished-at="2026-06-11T11:56:25 IST" duration-ms="11250">
       <class name="tests.FlightBookingTest">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.FlightBookingTest@5167f57d]" started-at="2026-06-08T13:48:55 IST" name="setup" finished-at="2026-06-08T13:49:06 IST" duration-ms="11587" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-06-11T11:56:15 IST" name="setup" finished-at="2026-06-11T11:56:20 IST" duration-ms="4845" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="bookFlight(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@5167f57d]" started-at="2026-06-08T13:49:06 IST" name="bookFlight" data-provider="bookingData" finished-at="2026-06-08T13:49:25 IST" duration-ms="18854" status="PASS">
+        <test-method signature="bookFlight(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-06-11T11:56:20 IST" name="bookFlight" data-provider="bookingData" finished-at="2026-06-11T11:56:24 IST" duration-ms="4530" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -84,18 +84,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookFlight -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FlightBookingTest@5167f57d]" started-at="2026-06-08T13:49:25 IST" name="tearDown" finished-at="2026-06-08T13:49:26 IST" duration-ms="778" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-06-11T11:56:24 IST" name="tearDown" finished-at="2026-06-11T11:56:25 IST" duration-ms="445" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=bookFlight status=SUCCESS method=FlightBookingTest.bookFlight(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@5167f57d] output={null}]]]>
+                <![CDATA[[TestResult name=bookFlight status=SUCCESS method=FlightBookingTest.bookFlight(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.FlightBookingTest@e3b3b2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="flushReport()[pri:0, instance:tests.FlightBookingTest@5167f57d]" started-at="2026-06-08T13:49:26 IST" name="flushReport" finished-at="2026-06-08T13:49:27 IST" duration-ms="787" status="PASS">
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:tests.FlightBookingTest@e3b3b2f]" started-at="2026-06-11T11:56:25 IST" name="flushReport" finished-at="2026-06-11T11:56:25 IST" duration-ms="456" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReport -->
